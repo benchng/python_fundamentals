@@ -15,6 +15,7 @@
 	- Calculate how many seconds are in a year.
 '''
 
-print ("hello world")
-print ("this is an update")
-print ("this is another update")
+print('hello world')
+
+
+print(365 * 24 * 60 * 60)
